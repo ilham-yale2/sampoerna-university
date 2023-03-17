@@ -1,0 +1,54 @@
+.main-navbar{
+    border-radius: 0px 0px 0px 20px;
+    background: #091E96;
+}
+.rounded-pill{
+    border-radius: 50em!important;
+}
+.text-12{
+    font-size: 12px;
+}
+
+.bg-primary,.nav-pills .nav-link.active {
+    background: #091E96!important;
+}
+
+.text-primary{
+    color: #091E96!important;
+}
+
+.list-none{
+    list-style: none;
+}
+
+.list-media li {
+    padding: 0px 5px;
+}
+
+.border-2 {
+    border-width: 2px;
+}
+
+.bg-gray{
+    background: #F1F2F2;
+}
+
+.bg-info{
+    background: #00A0CC!important;
+}
+
+.rounded{
+    border-radius: 10px!important;
+}
+
+footer{
+    border-top: 9px solid #00A0CC;
+}
+
+.border-primary{
+    border: 1px solid #091E96;
+}
+
+.bg-warning{
+    background: #FFC645;
+}
